@@ -36,7 +36,7 @@ nav a {
     border-radius: 10px;
     text-decoration: none;
     color: black;
-     font-family:cursive;
+     font-family:Open Sans;
 }
 
 h1 {
@@ -50,14 +50,14 @@ p {
     font-size: 20px;
     background-color: #FFE0E1;
     padding: 8px 15px 7px 9px;
-    font-family:cursive;
+    font-family:Open Sans;
 }
 
 h2{
     color:black;
     text-align: center;
     font-size: 25px;
-    font-family:cursive;
+    font-family:Open Sans;
 }
 
 .image {
@@ -100,7 +100,7 @@ footer p {
     font-size: 16px;
     color: black;
     text-align: left;
-    font-family:cursive;
+    font-family:Open Sans;
 }
 
 footer img.socialmedia {
